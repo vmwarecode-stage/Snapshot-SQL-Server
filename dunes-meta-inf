@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="pkg-description"/>
+<entry key="pkg-name">Snapshot.SQL</entry>
+<entry key="pkg-signer">CN=FlowGrab,O=FlowGrab,C=EE</entry>
+<entry key="pkg-owner"/>
+<entry key="pkg-id">ff8080814a023f1a014a310b52e70114</entry>
+</properties>
